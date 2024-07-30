@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Naveen16-sketch/ToDo-List.git/static/css/main.bca3d4b7.css",
-    "main.js": "/Naveen16-sketch/ToDo-List.git/static/js/main.c6e2d10a.js",
-    "index.html": "/Naveen16-sketch/ToDo-List.git/index.html",
-    "main.bca3d4b7.css.map": "/Naveen16-sketch/ToDo-List.git/static/css/main.bca3d4b7.css.map",
-    "main.c6e2d10a.js.map": "/Naveen16-sketch/ToDo-List.git/static/js/main.c6e2d10a.js.map"
+    "main.css": "/static/css/main.bca3d4b7.css",
+    "main.js": "/static/js/main.c6e2d10a.js",
+    "index.html": "/index.html",
+    "main.bca3d4b7.css.map": "/static/css/main.bca3d4b7.css.map",
+    "main.c6e2d10a.js.map": "/static/js/main.c6e2d10a.js.map"
   },
   "entrypoints": [
     "static/css/main.bca3d4b7.css",
